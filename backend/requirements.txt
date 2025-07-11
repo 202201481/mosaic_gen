@@ -1,0 +1,7 @@
+Flask==3.0.0
+Pillow==10.4.0
+numpy==1.26.4
+reportlab==4.2.2
+flask-cors==4.0.1
+scikit-learn==1.5.1
+opencv-python==4.10.0.84
